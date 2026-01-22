@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Omniverse",
+  "description": "A comprehensive AI playground demonstrating Gemini's multimodal capabilities including Text, Vision, Real-time Live Interaction, and Veo Video Generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
